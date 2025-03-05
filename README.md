@@ -6,3 +6,11 @@ A financial advisor application to analyze users' bank statements and provide pe
 
 [Frontend](https://github.com/segfault-and-chill/Penny-Frontend)
 [Backend](https://github.com/segfault-and-chill/Penny-Backend)
+
+## Database/Hosting
+
+Done through Render
+
+## Auth
+
+Done through firebase
