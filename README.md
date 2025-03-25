@@ -1,16 +1,28 @@
 # Penny
 
-A financial advisor application to analyze users' bank statements and provide personalized budget plans and savings tips using AI. The app also included a chatbot for answering financial queries. Won first place at the UA Innovate Hackathon.
+Penny is a financial advisor application designed to help users analyze their bank statements, generate personalized budget plans, and receive tailored savings tips using AI. The platform also features an intelligent chatbot for answering financial queries and guiding users to make better financial decisions.
 
-## Pages
+Visit our project website: [Penny Financial Advisor](https://penny-frontend.onrender.com/)
 
-[Frontend](https://github.com/segfault-and-chill/Penny-Frontend)
-[Backend](https://github.com/segfault-and-chill/Penny-Backend)
+## Features
 
-## Database/Hosting
+- **Comprehensive Bank Statement Analysis:** Parse and visualize your spending and saving patterns.
+- **Personalized Budgeting:** Get customized budget plans based on your financial habits.
+- **Smart Savings Tips:** Receive actionable recommendations to improve your financial health.
+- **AI-Driven Chatbot:** Engage with an intelligent assistant for instant financial advice.
+- **Award-Winning Innovation:** Honored at the UA Innovate Hackathon.
 
-Done through Render
+## Technologies
 
-## Auth
+- **Backend:** FastAPI, Python (with libraries for data manipulation and visualization)
+- **Frontend:** React, CSS, and modern web technologies
 
-Done through firebase
+## Developers
+
+- **Avery Fernandez**
+- **Michael Moen**
+- **Nate Pedigo**
+
+## License
+
+© 2025 Avery Fernandez, Michael Moen, Nate Pedigo. All rights reserved.
