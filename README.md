@@ -19,9 +19,9 @@ Visit our project website: [Penny Financial Advisor](https://penny-frontend.onre
 
 ## Developers
 
-- **Avery Fernandez**
-- **Michael Moen**
-- **Nate Pedigo**
+- [Avery Fernandez](https://github.com/OptimumAF)
+- [Michael Moen](https://github.com/MoenMi)
+- [Nate Pedigo](https://github.com/nepedigo-XIII)
 
 ## License
 
